@@ -69,7 +69,7 @@ fetch("data/main_list_data1.json").then(res => res.json()).then(data => {
 var DATA = (data, data__size) => {
     for (let i = 0; i < data__size; i++) {
         document.querySelector(".popularTable table")
-            .insertAdjacentHTML("beforeend", `<tr onclick="window.location.href='/result.html'">
+            .insertAdjacentHTML("beforeend", `<tr onclick="window.location.href='./result.html'">
             <td>${i + 1}</td>
             <td><img src="https://loremflickr.com/20/20" style="border-radius:50%"/></td>
                             <td>${data[i].name}</td>
