@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="asset/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <link rel="shortcut icon" href="https://onepagelove.com/favicon.ico" type="image/x-icon">
+    <title>SmartMuv Explorer</title>
+</head>
+
+<body>
+    <div class="muvWrapper">
+        <header>
+            <div class="muvLogo">
+                <a href="/">SmartMuv Explorer</a>
+            </div>
+        </header>
+        <main>
+            <div class="muvSearch">
+                <form action="#">
+                    <input type="text" placeholder="Search More ..." aria-label="Search">
+                    <button type="submit" formaction="result.html">
+                        <i class="fa-solid fa-magnifying-glass fa-xl"></i>
+                    </button>
+                </form>
+            </div>
+            <div class="contractDetailsBox">
+                <div class="detailHeading">Contract Details</div>
+                <div class="contractDetail">
+                    <div><span>Name: </span><span class="result__token">TokenX</span></div>
+                    <div><span>Address: </span><span class="result__addr">0x1234567890987654321abcd</span> &nbsp;<button><i class="fa-regular fa-copy"></i><span class="copy__tooltip">Copied!</span>
+                    </button></div>
+                </div>
+            </div>
+            <div class="deepDetailsBox">
+                <div class="deepBox1 deepDetail">
+                    <div>
+                        <div class="deepBoxHeading">Layout Summary</div>
+                        <div class="deepVar1 deepVar">12 State Variables</div>
+                        <div class="deepVar2 deepVar">4 Mapping Variables</div>
+                        <div class="deepBoxHeading">Deep Analysis</div>
+                        <div class="deepVar3 deepVar">18 Mapping Key Sources</div>
+                    </div>
+                    <div class="speedo">
+                        <canvas id="myChart"></canvas>
+                        <div>Complexity Score <svg class="icon-i" width="10" height="10" viewBox="0 0 17 16" xmlns="http://www.w3.org/2000/svg"><path fill="white" fill-rule="evenodd" clip-rule="evenodd" d="M16.5 8a8 8 0 1 1-16 0 8 8 0 0 1 16 0Zm-7-4a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-2 3a1 1 0 0 0 0 2v3a1 1 0 0 0 1 1h1a1 1 0 1 0 0-2V8a1 1 0 0 0-1-1h-1Z">
+                            <title>Range from 0 to 100</title>
+                        </path></svg></div>
+                    </div>
+                </div>
+                <div class="deepBox2 deepDetail">Coming Soon</div>
+                <div class="deepBox3  deepDetail">Coming Soon</div>
+            </div>
+            <div class="layoutDetailsBox">
+                <div class="detailHeading">Layout Details</div>
+                <div style="overflow-x: auto;overflow-y: auto;height: 275px;">
+                    <table>
+                        <tr>
+                            <th>Slot #</th>
+                            <th>Variable</th>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="summaryDetailsBox">
+                <div class="detailHeading">Summary Details</div>
+                <div style="overflow-x: auto;overflow-y: auto;height:275px">
+                    <table>
+                        <tr>
+                            <th>Slot #</th>
+                            <th>Variable</th>
+                            <th>Type</th>
+                            <th>Value</th>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div class="reqData">
+                <button>Request Complete Data</button>
+            </div>
+        </main>
+        <div class="line"></div>
+        <footer>
+            <div class="footerLogoBox">
+                <div class="footerLogo">
+                    <a href="/">SmartMuv Explorer</a>
+                </div>
+                <p>The World's Dapp Store</p>
+                <div class="icons">
+                    <a href=""><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href=""><i class="fa-brands fa-discord"></i></a>
+                    <a href=""><i class="fa-sharp fa-solid fa-paper-plane"></i></a>
+                    <a href=""><i class="fa-brands fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footerProducts">
+                <h4>Products</h4>
+                <div><a href="">AI Agent for Deep Storage Analysis</a></div>
+                <div><a href="">Storage Explorer</a></div>
+                <div><a href="">Storage Collision Detector</a></div>
+            </div>
+            <div class="footerServices">
+                <h4>Services</h4>
+                <div><a href="">Chain Migration</a></div>
+                <div><a href="">Contract Upgrade</a></div>
+                <div><a href="">Storage Analysis</a></div>
+                <div><a href="">Deeps Data Extraction</a></div>
+                <div><a href="">Deep Storage Audit</a></div>
+            </div>
+            <div class="footerNoContract">
+                <h4>Did not find data of your <h4>smart contract?</h4></h4>
+                <div><button>Submit Request</button></div>
+            </div>
+        </footer>
+        <div class="line"></div>
+        <div class="lastItems">
+            <div>SmartMuv Ⓒ 2024 | Made with ❤️ by team SmartMuv.app</div>
+            <div><a href="">Terms</a> | <a href="">Privacy Policy</a></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./result.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,202 @@
+[
+    {
+        "address": "0xec821190f78bffaca775c3d607475ec7cd6686ea",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 10,
+            "total_key_sources": 10,
+            "complexity_score": 15.8
+        },
+        "name": "Zignal"
+    },
+    {
+        "address": "0xec81855064f74b1ea0d077393699e428d02af28c",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 12,
+            "complexity_score": 25.725
+        },
+        "name": "TokenMintERC20Token"
+    },
+    {
+        "address": "0xec81592a8a5b91782fc1cfc32f8505cf4232eed0",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 0,
+            "total_key_sources": 0,
+            "complexity_score": 0
+        },
+        "name": "Forwarder"
+    },
+    {
+        "address": "0xec813e53af13dda77eaef1a4b5804db5f8208f2e",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 11,
+            "total_key_sources": 0,
+            "complexity_score": 33
+        },
+        "name": "StrategyAaveUsdt"
+    },
+    {
+        "address": "0xec80fbe586724b48eb4931475e62f3ca11597277",
+        "data": {
+            "total_mapping": 7,
+            "total_variables": 12,
+            "total_key_sources": 39,
+            "complexity_score": 61.125
+        },
+        "name": "RaribleUserToken"
+    },
+    {
+        "address": "0xec80e39f1d0946405d2b1afbde1bdcd93021f868",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 14,
+            "total_key_sources": 24,
+            "complexity_score": 35.3625
+        },
+        "name": "USDJ"
+    },
+    {
+        "address": "0xec80c5bfdde9ffd66547a80986403f5ae2831888",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 7,
+            "total_key_sources": 12,
+            "complexity_score": 16.2375
+        },
+        "name": "dopnetwork"
+    },
+    {
+        "address": "0xec807912f908e4cd044e147dac2a1aededea6900",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 12,
+            "total_key_sources": 38,
+            "complexity_score": 49.5625
+        },
+        "name": "LongevityCrowdsale"
+    },
+    {
+        "address": "0xec8072ed277d8e7dfb70de568398444c80329cb5",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 21,
+            "total_key_sources": 9,
+            "complexity_score": 37.650000000000006
+        },
+        "name": "GREENCANDLESHIBA"
+    },
+    {
+        "address": "0xec80352d509229a6a2a42485fe2385467e34626f",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 9.487499999999999
+        },
+        "name": "AutoWallet"
+    },
+    {
+        "address": "0xec80146742ae47c3ec01028413529c9d4265355c",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    },
+    {
+        "address": "0xec800ffdd7c4081911614fed9a6dd780ab264ea6",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 25.575
+        },
+        "name": "ProxyAdmin"
+    },
+    {
+        "address": "0xec800e4022c483c37e12f848709a73b1d3242397",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    },
+    {
+        "address": "0xec7fe70673cd92aff400109568b54945bae2b16f",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 18,
+            "total_key_sources": 7,
+            "complexity_score": 26.9
+        },
+        "name": "KONGC"
+    },
+    {
+        "address": "0xec7fd0a171ef4f6781768e99f1278357ce49f973",
+        "data": {
+            "total_mapping": 7,
+            "total_variables": 17,
+            "total_key_sources": 55,
+            "complexity_score": 67.925
+        },
+        "name": "RobizaWineNFT"
+    },
+    {
+        "address": "0xec7fb762712c8b281b401aa4e64cbd82cdb9da66",
+        "data": {
+            "total_mapping": 7,
+            "total_variables": 32,
+            "total_key_sources": 19,
+            "complexity_score": 52.625
+        },
+        "name": "DECOM"
+    },
+    {
+        "address": "0xec7f6305f7f9a9bce473440aaf05e4e6e3aef2c6",
+        "data": {
+            "total_mapping": 10,
+            "total_variables": 27,
+            "total_key_sources": 42,
+            "complexity_score": 67.35
+        },
+        "name": "ThisIsNotASecurity"
+    },
+    {
+        "address": "0xec7d6fe4a7abeb72803a1343af5f9d12c5446677",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 34,
+            "total_key_sources": 13,
+            "complexity_score": 42.65
+        },
+        "name": "DOG"
+    },
+    {
+        "address": "0xec7d2f8d438cf80539b2d1e94db718341020ba54",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 7,
+            "complexity_score": 37.625
+        },
+        "name": "BAMBI"
+    },
+    {
+        "address": "0xec7c44699d4bba804d739fb3309ae63ed21d8ad4",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 12,
+            "complexity_score": 29.85
+        },
+        "name": "GAINSBOT"
+    }
+]

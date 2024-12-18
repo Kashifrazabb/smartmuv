@@ -1,0 +1,202 @@
+[
+    {
+        "address": "0xec854371347c5d6173f14d9954cf4b4e7ec49e58",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 2,
+            "complexity_score": 9.5125
+        },
+        "name": "UserWallet"
+    },
+    {
+        "address": "0xec842caefeda2f1e40caeb2ffbd7022fb6b351d6",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    },
+    {
+        "address": "0xec842c9c537f380d00eea7f70c31561324294bf6",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 9,
+            "total_key_sources": 27,
+            "complexity_score": 44.0625
+        },
+        "name": "WikiBitToken"
+    },
+    {
+        "address": "0xec841073efd8e68ddffbd6cf440f2548684345ea",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 8,
+            "total_key_sources": 10,
+            "complexity_score": 19.925
+        },
+        "name": "GemCoin"
+    },
+    {
+        "address": "0xec8410317bb2b477fc44c4de92e58d6e6f33453a",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 7,
+            "total_key_sources": 30,
+            "complexity_score": 42.0375
+        },
+        "name": "KRWT"
+    },
+    {
+        "address": "0xec83f750adfe0e52a8b0dba6eeb6be5ba0bee535",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 6,
+            "total_key_sources": 0,
+            "complexity_score": 4.125
+        },
+        "name": "Disbursement"
+    },
+    {
+        "address": "0xec835435d261c9c33c638d5b8297abe6b45be702",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 2,
+            "complexity_score": 9.5125
+        },
+        "name": "UserWallet"
+    },
+    {
+        "address": "0xec83314d7883b516f70077b9821913fb3b0d15f6",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 22,
+            "total_key_sources": 7,
+            "complexity_score": 35.5625
+        },
+        "name": "Killua"
+    },
+    {
+        "address": "0xec8318cb5b5d2892d92a473a32a2bc2fa2a7604a",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 19,
+            "total_key_sources": 33,
+            "complexity_score": 51.974999999999994
+        },
+        "name": "AErc20"
+    },
+    {
+        "address": "0xec82fffd7c1961904fdbb4cbd98f06d9dd0870a8",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 8,
+            "total_key_sources": 11,
+            "complexity_score": 19.9375
+        },
+        "name": "DeltaChainToken"
+    },
+    {
+        "address": "0xec82df7fcc6dda7bc3e528e7639e1b28aa484665",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 11,
+            "total_key_sources": 20,
+            "complexity_score": 22.112499999999997
+        },
+        "name": "MyAdvancedToken"
+    },
+    {
+        "address": "0xec82b15ce07ed410ba02bc2053615cbe8960d89a",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 10,
+            "total_key_sources": 19,
+            "complexity_score": 24.1625
+        },
+        "name": "MyAdvancedToken"
+    },
+    {
+        "address": "0xec82aa4cd9d4c7c209e5e2adb2dc90ab3b95c015",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 16,
+            "total_key_sources": 39,
+            "complexity_score": 59.475
+        },
+        "name": "TheFelineExperiment"
+    },
+    {
+        "address": "0xec82a50db59d5248c942f69c4f7ecc8bc8c641b3",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 8,
+            "total_key_sources": 10,
+            "complexity_score": 19.925
+        },
+        "name": "ADZbuzzCommunityToken"
+    },
+    {
+        "address": "0xec82993014d026c19864d5c2e90effb5175b35b1",
+        "data": {
+            "total_mapping": 9,
+            "total_variables": 26,
+            "total_key_sources": 39,
+            "complexity_score": 64.425
+        },
+        "name": "ShadeNFT"
+    },
+    {
+        "address": "0xec8290d74e33bcde68649a3793d8764b5de48a22",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 20,
+            "total_key_sources": 7,
+            "complexity_score": 30.6125
+        },
+        "name": "ShapellaInu"
+    },
+    {
+        "address": "0xec828f73bb63b8effb7099b55a0d4eb4b50b8b6b",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 10,
+            "total_key_sources": 16,
+            "complexity_score": 34.85
+        },
+        "name": "DogeByVngog"
+    },
+    {
+        "address": "0xec828053b92a3f1611ab9a3b4b0e3e8fc93a4561",
+        "data": {
+            "total_mapping": 1,
+            "total_variables": 3,
+            "total_key_sources": 24,
+            "complexity_score": 23.8125
+        },
+        "name": "CurveConvexRegistry"
+    },
+    {
+        "address": "0xec824549e3b0475bf636f18b6136c5c0ff0b1089",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 15,
+            "total_key_sources": 14,
+            "complexity_score": 24.1
+        },
+        "name": "TBC"
+    },
+    {
+        "address": "0xec823077844a040fb9e0c0d917352765257179f4",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 2,
+            "complexity_score": 9.5125
+        },
+        "name": "UserWallet"
+    }
+]

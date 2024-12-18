@@ -1,0 +1,202 @@
+[
+    {
+        "address": "0xec7c218378227ee9e55f857d729175be400453fe",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 29,
+            "total_key_sources": 16,
+            "complexity_score": 38.5625
+        },
+        "name": "PepeToken"
+    },
+    {
+        "address": "0xec7bf0cf876adf2a2d5745dda2fcb46201d77546",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 26,
+            "total_key_sources": 10,
+            "complexity_score": 32.300000000000004
+        },
+        "name": "Orange"
+    },
+    {
+        "address": "0xec7b0d5f2b9575df05091889fb2bd8d8bb38a54b",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 25,
+            "total_key_sources": 11,
+            "complexity_score": 31.9
+        },
+        "name": "AGMI"
+    },
+    {
+        "address": "0xec7a65de6d362be8658a28100ee944246d3c0b2a",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 24,
+            "total_key_sources": 8,
+            "complexity_score": 27.325
+        },
+        "name": "SafeNomics"
+    },
+    {
+        "address": "0xec78ec0617e2493ea27a696750e5766865503ab1",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 24,
+            "total_key_sources": 10,
+            "complexity_score": 29.4125
+        },
+        "name": "HAY"
+    },
+    {
+        "address": "0xec41b9aedc1b6a45fd9ca8b8f3cd19f14617fa18",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 19,
+            "complexity_score": 22.512500000000003
+        },
+        "name": "TokenERC20"
+    },
+    {
+        "address": "0xec7893a8ba34f24dbd3e292143fd55ae413e1dd7",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 24,
+            "total_key_sources": 7,
+            "complexity_score": 27.725
+        },
+        "name": "SuperSaiyan"
+    },
+    {
+        "address": "0xec41b592c8303a034b412d1ef1c33a30249c34bb",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 9,
+            "complexity_score": 15.7875
+        },
+        "name": "PayPalOfficialToken"
+    },
+    {
+        "address": "0xec41b15cf32f68bc8b406538c4a1fdca17bc73a4",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 9,
+            "complexity_score": 11.662500000000001
+        },
+        "name": "TokenERC20"
+    },
+    {
+        "address": "0xec41a8f07e268be077eebf1e92fab66c6aa2ba16",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 6,
+            "complexity_score": 8.737499999999999
+        },
+        "name": "TokenERC20"
+    },
+    {
+        "address": "0xec78227727bd56ebd7af1796d9a0ee48094b674b",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 30,
+            "total_key_sources": 26,
+            "complexity_score": 45.2875
+        },
+        "name": "WrappedTurbo"
+    },
+    {
+        "address": "0xec78190f75c880271da8c024622c2cfc66bafce8",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 27,
+            "total_key_sources": 7,
+            "complexity_score": 33.0875
+        },
+        "name": "Ethernet"
+    },
+    {
+        "address": "0xec41956f1c2a733de4eb74ab1585d047e1b5b280",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 2,
+            "total_key_sources": 0,
+            "complexity_score": 3.7125
+        },
+        "name": "IntermediateWallet"
+    },
+    {
+        "address": "0xec415526ea2848ba642c856bdaccf14793dd408f",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.1375
+        },
+        "name": "MONKEYS"
+    },
+    {
+        "address": "0xeb99429370758367bf895d25ce67ef363cd2209f",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 12,
+            "complexity_score": 25.725
+        },
+        "name": "TokenMintERC20Token"
+    },
+    {
+        "address": "0xec770ebbcc7996f2f440ac293b0e4ba0bc8db02d",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.550000000000004
+        },
+        "name": "X"
+    },
+    {
+        "address": "0xeb993d6f20c94da6ccf76ddc44594553711e43d5",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 2,
+            "complexity_score": 9.5125
+        },
+        "name": "UserWallet"
+    },
+    {
+        "address": "0xec41364484ae267458163b8d6ce84ac96dabee4e",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 10,
+            "complexity_score": 17.450000000000003
+        },
+        "name": "TokenFactory"
+    },
+    {
+        "address": "0xeb9929614b5d4991f9c2912aacb0d38d70850fc2",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 16,
+            "total_key_sources": 22,
+            "complexity_score": 48.95
+        },
+        "name": "TheHabibizAnimated"
+    },
+    {
+        "address": "0xec76d1af6713014b5d5282b610bdfeada121dbaa",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 5,
+            "total_key_sources": 18,
+            "complexity_score": 35.7
+        },
+        "name": "AutisticInvestor"
+    }
+]

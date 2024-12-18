@@ -1,0 +1,202 @@
+[
+    {
+        "address": "0xec40d3d8d026a2c4c7bcbe281038de1db771cddc",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    },
+    {
+        "address": "0xec764b78ceb05620868d071532c76e85c4dcc9ca",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.1375
+        },
+        "name": "PepeButt"
+    },
+    {
+        "address": "0xec40bd2f66d7fb60a70a95b246041d58d4f687d5",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 2,
+            "total_key_sources": 0,
+            "complexity_score": 1.2375
+        },
+        "name": "Migrations"
+    },
+    {
+        "address": "0xeb98dcdaef4019c422a5b478b13124dae97d6a6c",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 2,
+            "total_key_sources": 0,
+            "complexity_score": 1.2375
+        },
+        "name": "Proxy"
+    },
+    {
+        "address": "0xec763395ee9cb2f4326b8c26bc61a9e0fd58ecb6",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.1375
+        },
+        "name": "KingOfMemes"
+    },
+    {
+        "address": "0xeb98baf2e1654ab5eeed9cdba9dcf51c74de9461",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 12,
+            "total_key_sources": 6,
+            "complexity_score": 25.2375
+        },
+        "name": "ERC20"
+    },
+    {
+        "address": "0xec401663a449d37b64a07f514f64b16049f0ba9f",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 17,
+            "total_key_sources": 70,
+            "complexity_score": 71
+        },
+        "name": "NFT"
+    },
+    {
+        "address": "0xeb989389fc68f18e146079400f28722c33fd92ae",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 9.487499999999999
+        },
+        "name": "AutoWallet"
+    },
+    {
+        "address": "0xec75dfffa1fd5f4b6f79b6064ad01abab19e14e3",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 4,
+            "total_key_sources": 7,
+            "complexity_score": 25.6625
+        },
+        "name": "PARTYSLUT2"
+    },
+    {
+        "address": "0xeb985075dd831ade8fd3e1f6200ffc06437d4db9",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 2,
+            "complexity_score": 9.5125
+        },
+        "name": "UserWallet"
+    },
+    {
+        "address": "0xeb9803446160620b25030d74f3a8c827be05b88d",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    },
+    {
+        "address": "0xeb97f80351c72e06900484a70ecb075da0dd0ac3",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 3,
+            "complexity_score": 6.637499999999999
+        },
+        "name": "Wallet"
+    },
+    {
+        "address": "0xeb97eeb2a22da42d40de4519d6cb71d1afa0ce41",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 26,
+            "total_key_sources": 20,
+            "complexity_score": 39.4375
+        },
+        "name": "OneChad"
+    },
+    {
+        "address": "0xec74e10d7ddf2fbbfb03424c02aa8776b9c25056",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 25,
+            "total_key_sources": 8,
+            "complexity_score": 28.975
+        },
+        "name": "GnomeRetardedObamaKermit3000"
+    },
+    {
+        "address": "0xec73f968f72ce5ae598b8e04eb8669d34eeab341",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 25,
+            "total_key_sources": 11,
+            "complexity_score": 31.9
+        },
+        "name": "BIRDS"
+    },
+    {
+        "address": "0xeb97cb7fb66fef9cc72d7e2ead727f922d57beca",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 2.0625
+        },
+        "name": "POLCVault"
+    },
+    {
+        "address": "0xeb97844294121774a9cbbc3a2fc5a01390d0a087",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 6,
+            "total_key_sources": 9,
+            "complexity_score": 10.8375
+        },
+        "name": "Bothereum"
+    },
+    {
+        "address": "0xec3eb2453ba33ff7fdb76a9384aa1cad84b732a1",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 37,
+            "total_key_sources": 18,
+            "complexity_score": 50.55
+        },
+        "name": "KENTO"
+    },
+    {
+        "address": "0xeb96f4caaea05e69f41c25ae42b58ffff7df628d",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 4,
+            "total_key_sources": 11,
+            "complexity_score": 18.2875
+        },
+        "name": "EONToken"
+    },
+    {
+        "address": "0xec729afd782956af346779bcf2f059b477d6d785",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 5,
+            "total_key_sources": 0,
+            "complexity_score": 13.612499999999999
+        },
+        "name": "EthsMarket_OG_Card_Make"
+    }
+]

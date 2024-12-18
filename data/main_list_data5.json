@@ -1,0 +1,202 @@
+[
+    {
+        "address": "0xeb9674057f6919088330ea1d5b83eab000604771",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 7,
+            "total_key_sources": 10,
+            "complexity_score": 16.2125
+        },
+        "name": "NiMingToken"
+    },
+    {
+        "address": "0xec72528d10a2d8a3964645c8cdccea9aa271bb0a",
+        "data": {
+            "total_mapping": 3,
+            "total_variables": 11,
+            "total_key_sources": 9,
+            "complexity_score": 28.1625
+        },
+        "name": "MMTRToken"
+    },
+    {
+        "address": "0xeb9633d0a810f6b9821d55e19f72a2789cb00e64",
+        "data": {
+            "total_mapping": 1,
+            "total_variables": 8,
+            "total_key_sources": 1,
+            "complexity_score": 4.550000000000001
+        },
+        "name": "Contributor"
+    },
+    {
+        "address": "0xec7198a08cae3e778a7a9f05c7ca180d0e5ab525",
+        "data": {
+            "total_mapping": 5,
+            "total_variables": 25,
+            "total_key_sources": 8,
+            "complexity_score": 28.975
+        },
+        "name": "abe"
+    },
+    {
+        "address": "0xec3eb04ae5b3d89b9e5d34f17d3dee00c95d2ed9",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 18,
+            "total_key_sources": 25,
+            "complexity_score": 50.225
+        },
+        "name": "Token"
+    },
+    {
+        "address": "0xeb95ceff103efbfd489dcb5f47a896f9b2379bb9",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 5,
+            "total_key_sources": 13,
+            "complexity_score": 33.575
+        },
+        "name": "PooledPKN"
+    },
+    {
+        "address": "0xec71798c28f3cc50286a919b052ec0196496f64b",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.1375
+        },
+        "name": "Eclipse"
+    },
+    {
+        "address": "0xeb95c5ff5d3ea9bd33e883bc8623b96c9676a7ac",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 9.487499999999999
+        },
+        "name": "AutoWallet"
+    },
+    {
+        "address": "0xdd11088aa79a386cebe4b5c592410bb12075c986",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 1.2375
+        },
+        "name": "IdentityProxy"
+    },
+    {
+        "address": "0xeb95bd887dc37ed8536d60097d22f443a027fd8a",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 1,
+            "total_key_sources": 0,
+            "complexity_score": 6.6000000000000005
+        },
+        "name": "Forwarder"
+    },
+    {
+        "address": "0xec71316c3acb8630c0c1c0338ca23213ebd45b0f",
+        "data": {
+            "total_mapping": 6,
+            "total_variables": 28,
+            "total_key_sources": 10,
+            "complexity_score": 40.1375
+        },
+        "name": "Trustnocomputer"
+    },
+    {
+        "address": "0xffb1ec9e14ae258c37f5f9407ce9150e68c735bd",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 7,
+            "total_key_sources": 9,
+            "complexity_score": 10.425
+        },
+        "name": "Token"
+    },
+    {
+        "address": "0xffb1d2ddd943be50849f3feb66977237a41583ad",
+        "data": {
+            "total_mapping": 1,
+            "total_variables": 6,
+            "total_key_sources": 8,
+            "complexity_score": 20.3125
+        },
+        "name": "RealToken"
+    },
+    {
+        "address": "0xeb95afea226dbf617414829ae78f567ebfd8c98e",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 7,
+            "total_key_sources": 24,
+            "complexity_score": 30.825
+        },
+        "name": "LRC_v2"
+    },
+    {
+        "address": "0xea4c5b7088823f6851198ae908a59ee1d6a9c8c9",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 3,
+            "total_key_sources": 9,
+            "complexity_score": 14.55
+        },
+        "name": "StripperToken"
+    },
+    {
+        "address": "0xec3dc4757847b5806e83f7d7cd4508013945f643",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 24,
+            "total_key_sources": 10,
+            "complexity_score": 30.2375
+        },
+        "name": "DogeFtw"
+    },
+    {
+        "address": "0xfecddf11c7b6515b47c130a8efe142ea7519f1f5",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 25,
+            "total_key_sources": 12,
+            "complexity_score": 32.7375
+        },
+        "name": "BitCat"
+    },
+    {
+        "address": "0xeb95a88cd9051b97a4cd058a640467107dcca3a2",
+        "data": {
+            "total_mapping": 2,
+            "total_variables": 13,
+            "total_key_sources": 3,
+            "complexity_score": 16.5375
+        },
+        "name": "MiniMeToken"
+    },
+    {
+        "address": "0xec3d7969908e1c36d5381a13c604581820881778",
+        "data": {
+            "total_mapping": 4,
+            "total_variables": 26,
+            "total_key_sources": 11,
+            "complexity_score": 31.487500000000004
+        },
+        "name": "MMEXV"
+    },
+    {
+        "address": "0xddff5b0a71ca80f1d7c79fb5cca86f9fff02035a",
+        "data": {
+            "total_mapping": 0,
+            "total_variables": 7,
+            "total_key_sources": 0,
+            "complexity_score": 5.7749999999999995
+        },
+        "name": "LockToken"
+    }
+]
