@@ -110,13 +110,21 @@ main>div {
     background: transparent;
     color: white;
 }
+.fa-copy{
+    color:var(--textColor);
+    transition: color .2s;
+}
 
+.fa-copy:hover {
+    color:var(--hoverBtn);
+    transition: color .2s;
+}
 
 .copy__tooltip {
     visibility: hidden;
     color: white;
     position: absolute;
-    top: -20px;
+    top: -30px;
     left: 50%;
     transform: translateX(-50%);
     opacity: 0;
