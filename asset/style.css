@@ -136,7 +136,7 @@ main>div {
     border-radius: 10px;
     flex-basis: calc((100% / 3) - 1rem);
     /* 100%/BoxesInRow - Gap - Padding*/
-    min-width: 350px;
+    min-width: 320px;
     background: var(--secondaryColor);
     display: flex;
     justify-content: space-around;
@@ -187,6 +187,8 @@ main>div {
 
 .icon-i {
     cursor: pointer;
+    width: 14px;
+    height: 14px;
 }
 
 .summaryDetailsBox table tr span {
@@ -456,6 +458,11 @@ a {
         font-size: 10px;
         width: 120px;
         margin-left: -10px;
+    }
+
+    .icon-i {
+        width: 10px;
+        height:10px;
     }
 }
 
