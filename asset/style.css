@@ -423,12 +423,6 @@ a {
     place-items: center;
 }
 
-@media (max-width: 768px) {
-    .muvSearch form {
-        width: 90%;
-    }
-}
-
 @media (max-width: 480px) {
     .muvSearch form {
         width: 90%;
@@ -463,6 +457,11 @@ a {
     .icon-i {
         width: 10px;
         height:10px;
+    }
+
+    tr:hover {
+        background-color: transparent;
+        cursor: pointer;
     }
 }
 
