@@ -85,6 +85,7 @@ main>div {
 
 .detailHeading {
     margin-bottom: 1rem;
+    font-size: 1.2rem;
 }
 
 .detailHeading+div {
@@ -93,12 +94,12 @@ main>div {
 
 .contractDetail span:nth-child(1) {
     font-weight: bold;
-    font-size: 14px;
+    font-size: 1.1rem;
 }
 
 .contractDetail span:nth-child(2) {
     color: var(--textColor);
-    font-size: 14px;
+    font-size: 1.1rem;
 }
 
 .contractDetail button {
@@ -109,6 +110,7 @@ main>div {
     background: transparent;
     color: white;
 }
+
 
 .copy__tooltip {
     visibility: hidden;
@@ -129,17 +131,37 @@ main>div {
 }
 
 .deepDetail {
-    padding: 1rem;
+    padding:1rem;
     font-size: 1rem;
     border-radius: 10px;
     flex-basis: calc((100% / 3) - 1rem);
     /* 100%/BoxesInRow - Gap - Padding*/
-    min-width: 300px;
+    min-width: 350px;
     background: var(--secondaryColor);
     display: flex;
     justify-content: space-around;
     align-items: center;
     min-height: 220px;
+}
+
+.deepBox2,.deepBox3 {
+    position: relative;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.deepBox2:after,.deepBox3:after {
+    content:'';
+    background-image: url('./coming\ soon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;   
+    width:100px;
+    height:100px;
+    position: absolute;
+    top:-4px;
+    right:-6px;
 }
 
 .deepBoxHeading {
@@ -156,9 +178,11 @@ main>div {
 }
 
 .speedo div {
-    font-size: 10px;
+    font-size: 14px;
     margin-top: -5px;
-    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .icon-i {
@@ -278,7 +302,9 @@ footer {
 }
 
 .footerNoContract {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .footerNoContract div {
@@ -306,6 +332,10 @@ footer {
     color: white;
     font-size: 1.2rem;
     font-weight: 900;
+}
+
+.footerLogoBox {
+    margin-bottom: 1rem;
 }
 
 .footerLogoBox p {
@@ -420,6 +450,12 @@ a {
 
     header button {
         display: none;
+    }
+
+    .speedo div {
+        font-size: 10px;
+        width: 120px;
+        margin-left: -10px;
     }
 }
 

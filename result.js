@@ -25,9 +25,15 @@ fetch(`data/storage_data.json`).then(res => res.json()).then(data => {
     var summary__type=document.querySelectorAll(".summaryDetailsBox table tr td:nth-child(3)");
     summary__type.forEach(i=> {
         if(i.innerText=="string") {
-            i.querySelector("span").style.background="crimson"
+            i.querySelector("span").style.background="#9c51b6";
+            i.querySelector("span").style.color="white"
         } else if(i.innerText=="bool") {
-            i.querySelector("span").style.background="purple"
+            i.querySelector("span").style.background="white";
+            i.querySelector("span").style.color="black"
+        }
+        else {
+            i.querySelector("span").style.background="#fe691e"
+            i.querySelector("span").style.color="white"
         }
     })
 });
@@ -60,7 +66,7 @@ const gaugeChartText = {
         const score = chart.data.datasets[0].data[0];
         const angle = Math.PI + (score / 100) * Math.PI; // Calculate angle
         const xCor =  chart.getDatasetMeta(0).data[0].x;
-        const yCor = chart.getDatasetMeta(0).data[0].y - 12;
+        const yCor = chart.getDatasetMeta(0).data[0].y - (screen.width < 480 ? 6 : 12);
 
         const radius = (chart.chartArea.bottom - chart.chartArea.top) / 2;
 
